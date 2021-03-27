@@ -1,0 +1,2 @@
+# Ajanlorendszer
+Neurális háló (MI)
